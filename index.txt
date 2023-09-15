@@ -2,6 +2,9 @@ hy
 how are you
 
 hy wht
+this line is feature7
+this also line is feature7
+this is another line
 
 this is a feature8
 this is also line of feature8
